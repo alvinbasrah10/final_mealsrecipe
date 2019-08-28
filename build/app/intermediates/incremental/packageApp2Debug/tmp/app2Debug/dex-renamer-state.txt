@@ -1,0 +1,4 @@
+#Tue Aug 13 20:28:53 ICT 2019
+base.0=C\:\\Users\\alvin\\Documents\\FLUTTER\\final_mealsrecipe\\build\\app\\intermediates\\transforms\\dexMerger\\app2\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
